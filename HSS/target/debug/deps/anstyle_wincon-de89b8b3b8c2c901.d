@@ -1,0 +1,10 @@
+C:\Users\Yan Letov\Documents\Projects\HSS\target\debug\deps\libanstyle_wincon-de89b8b3b8c2c901.rmeta: C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\lib.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Yan Letov\Documents\Projects\HSS\target\debug\deps\libanstyle_wincon-de89b8b3b8c2c901.rlib: C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\lib.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Yan Letov\Documents\Projects\HSS\target\debug\deps\anstyle_wincon-de89b8b3b8c2c901.d: C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\lib.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\ansi.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\stream.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\windows.rs
+
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\lib.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\ansi.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\stream.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\anstyle-wincon-3.0.7\src\windows.rs:

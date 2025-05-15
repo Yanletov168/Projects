@@ -1,0 +1,10 @@
+C:\Users\Yan Letov\Documents\Projects\HSS\target\debug\deps\libcolored-568548d887d84c65.rmeta: C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\lib.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\color.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\control.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\error.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\style.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\customcolors.rs
+
+C:\Users\Yan Letov\Documents\Projects\HSS\target\debug\deps\colored-568548d887d84c65.d: C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\lib.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\color.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\control.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\error.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\style.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\customcolors.rs
+
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\lib.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\color.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\control.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\error.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\style.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\colored-2.2.0\src\customcolors.rs:

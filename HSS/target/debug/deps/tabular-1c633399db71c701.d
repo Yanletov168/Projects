@@ -1,0 +1,11 @@
+C:\Users\Yan Letov\Documents\Projects\HSS\target\debug\deps\libtabular-1c633399db71c701.rmeta: C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\lib.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\column_spec.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\error.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\macros.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\row.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\table.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\width_string.rs
+
+C:\Users\Yan Letov\Documents\Projects\HSS\target\debug\deps\tabular-1c633399db71c701.d: C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\lib.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\column_spec.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\error.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\macros.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\row.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\table.rs C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\width_string.rs
+
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\lib.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\column_spec.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\error.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\macros.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\row.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\table.rs:
+C:\Users\Yan\ Letov\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\tabular-0.2.0\src\width_string.rs:
